@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    .h1 = {Color: "Brown"};
+    .site = {Color: "Green"};
+    .grid = {Color: "yellow"};
+    .footer = {Color: "Pink"};
+}
+
